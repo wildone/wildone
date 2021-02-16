@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on [aem.design](https://github.com/aem-design/aemdesign-aem-core)
 - 💬 Ask me about anything [here](https://github.com/wildone/wildone/issues)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=kiritsu.kiritsu)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wildone)
 
 <img width="420" src="https://github-readme-stats-wine-six.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=My%20Github%20Stats"/><img width="350" src="https://github-readme-stats-wine-six.vercel.app/api/top-langs/?username=wildone&layout=compact&theme=radical&hide_border=true"/>
 
