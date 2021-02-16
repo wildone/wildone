@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [aem.design](https://github.com/aem-design/aemdesign-aem-core)
+- 👯 I’m looking to collaborate on [aem.design](https://github.com/aem-design/aemdesign-aem-core)
+- 💬 Ask me about anything [here](https://github.com/wildone/wildone/issues)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kiritsu.kiritsu)
 
