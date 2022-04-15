@@ -6,6 +6,17 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wildone)
 
+### Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wildone&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wildone&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wildone&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wildone&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wildone&theme=dracula&utcOffset=8)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wildone&theme=dark)](https://git.io/streak-stats)
+
+
 ### History
 
 <img width="420" src="https://github-readme-stats.mrwildone.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=false&custom_title=My%20Github%20Stats%20This%20Year&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&show_owner=true"/><img width="420" src="https://github-readme-stats.mrwildone.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=All%20Time&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&show_owner=true"/>
@@ -27,5 +38,5 @@
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wildone)](https://github.com/wildone)
+[![trophy](https://github-profile-trophy.vercel.app/?username=wildone&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=5)](https://github.com/wildone)
 
