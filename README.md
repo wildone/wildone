@@ -17,6 +17,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wildone&theme=dark)](https://git.io/streak-stats)
 
 
+<a href="https://github.com/wildone">
+  <img align="center" width="60%" src="./acti_comm.svg" />
+</a>
+
+<a href="https://github.com/wildone">
+  <img align="center" width="60%" src="./iso_calender.svg" />
+</a>
+
 ### History
 
 <img width="420" src="https://github-readme-stats.mrwildone.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=false&custom_title=My%20Github%20Stats%20This%20Year&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&show_owner=true"/><img width="420" src="https://github-readme-stats.mrwildone.vercel.app/api?username=wildone&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&custom_title=All%20Time&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&show_owner=true"/>
@@ -43,4 +51,8 @@
 
 <a href="https://github.com/wildone">
   <img align="center" width="60%" src="./achievements.svg" />
+</a>
+
+<a href="https://github.com/wildone?tab=stars">
+  <img align="center" width="60%" src="./recently-starred.svg" />
 </a>
