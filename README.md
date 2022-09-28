@@ -40,3 +40,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=wildone&theme=onedark&no-frame=true&margin-w=15&margin-h=15&row=2&column=5)](https://github.com/wildone)
 
+
+<a href="https://github.com/wildone">
+  <img align="center" width="60%" src="./achievements.svg" />
+</a>
