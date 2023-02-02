@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working and looking to collaborate on following opensource projects:
+- 🔭 I’m currently working and 🙋 looking to collaborate on following opensource projects:
   - [aem.design](https://github.com/aem-design/aemdesign-aem-core)
   - [governance.foundation](https://github.com/governance-foundation/knowledge-fund)
   - [typerefinery.ai](https://github.com/typerefinery-ai/typerefinery)
