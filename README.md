@@ -6,10 +6,7 @@
   - [typerefinery.ai](https://github.com/typerefinery-ai/typerefinery)
 - 💬 Ask me about anything [here](https://github.com/wildone/wildone/issues)
 
-<div>
-    <img alt="Visitor Stats" 
-        src="https://widgetbite.com/stats/wildone"/>  
-</div>
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=wildone)
 
 ### Summary
 
