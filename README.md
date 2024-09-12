@@ -6,7 +6,10 @@
   - [typerefinery.ai](https://github.com/typerefinery-ai/typerefinery)
 - 💬 Ask me about anything [here](https://github.com/wildone/wildone/issues)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wildone)
+<div align="center">
+    <img alt="Visitor Stats" 
+        src="https://widgetbite.com/stats/<github-username>"/>  
+</div>
 
 ### Summary
 
