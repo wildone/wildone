@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working and 🙋 looking to collaborate on following open source projects:
-  - [aem.design](https://github.com/aem-design/aemdesign-aem-core)
+  - https://vibegov.io/
+  - https://github.com/service-lasso
   - [governance.foundation](https://github.com/governance-foundation/knowledge-fund)
   - [typerefinery.ai](https://github.com/typerefinery-ai/typerefinery)
 - 💬 Ask me about anything [here](https://github.com/wildone/wildone/issues)
